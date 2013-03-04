@@ -1,0 +1,80 @@
+#wrap {
+        width: 800px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+		background-color: #B8B8B8 ;
+		margin-left: auto;
+		margin-right: auto;
+}
+
+p {
+		font-size: 20px;
+}
+
+h1 {
+		font-size: 55px;
+		color: #FFFFFF ;
+		margin: 10px;
+}
+
+
+h2 {
+		font-size: 45;
+		color: #282828;
+}
+
+h3 {
+		font-size: 35;
+		color: #282828;
+}
+
+body{
+		background-color: #000000;
+}
+ 
+#left {
+		float: left;
+		height: 2000px;
+		width: 118px;
+		background: blue url("../images/swansong.jpg") scroll; 
+		border-style:groove;
+		border-width:5px;
+}
+
+#right {
+		float: right;
+		height: 2000px;
+		width: 118px;
+		margin: 10px;
+		background: blue url("../images/swansong.jpg") scroll; 
+		border-style:groove;
+		border-width:5px;
+}
+
+img {
+		content: center;
+}
+
+
+#header {
+		background-color: #500000 ;
+        margin:           10px;
+        height:           95px
+}
+#header img {
+		float: left;
+}
+
+
+	
+#footer {
+		background-color: #500000 ;
+        margin: 10px;
+        height: 60px;
+		clear:both;
+}
+
+#footer p{
+		color: #FFFFFF;
+		font-size: 15px;
+}
